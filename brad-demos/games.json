@@ -1,0 +1,2019 @@
+{
+ "categories": [
+  "Retro Arcade",
+  "Originals",
+  "Cat Arcade",
+  "Cat Arcade v2"
+ ],
+ "games": [
+  {
+   "autostart": [
+    [
+     700,
+     "KeyZ"
+    ]
+   ],
+   "category": "Retro Arcade",
+   "extras": [
+    {
+     "key": "KeyM",
+     "label": "MUTE"
+    }
+   ],
+   "id": "rta-barrel-climb",
+   "keys": {
+    "attack": "KeyZ",
+    "jump": "KeyX",
+    "start": "Enter"
+   },
+   "labels": {
+    "attack": "A · JUMP",
+    "jump": "B",
+    "start": "PAUSE"
+   },
+   "orientation": "portrait",
+   "path": "g/rta-barrel-climb/index.html?level=1",
+   "thumb": "thumbs/rta-barrel-climb.webp?v=1791640221",
+   "title": "Barrel Climb"
+  },
+  {
+   "autostart": [
+    [
+     700,
+     "KeyZ"
+    ]
+   ],
+   "category": "Retro Arcade",
+   "extras": [
+    {
+     "key": "KeyM",
+     "label": "MUTE"
+    }
+   ],
+   "id": "rta-pipe-pests",
+   "keys": {
+    "attack": "KeyZ",
+    "jump": "KeyX",
+    "start": "Enter"
+   },
+   "labels": {
+    "attack": "A · JUMP",
+    "jump": "B",
+    "start": "PAUSE"
+   },
+   "orientation": "portrait",
+   "path": "g/rta-pipe-pests/index.html?level=1",
+   "thumb": "thumbs/rta-pipe-pests.webp?v=1791640226",
+   "title": "Pipe Pests"
+  },
+  {
+   "autostart": [
+    [
+     700,
+     "KeyZ"
+    ]
+   ],
+   "category": "Retro Arcade",
+   "extras": [
+    {
+     "key": "KeyM",
+     "label": "MUTE"
+    }
+   ],
+   "id": "rta-ring-rush",
+   "keys": {
+    "attack": "KeyZ",
+    "jump": "KeyX",
+    "start": "Enter"
+   },
+   "labels": {
+    "attack": "A · JUMP",
+    "jump": "B",
+    "start": "PAUSE"
+   },
+   "orientation": "portrait",
+   "path": "g/rta-ring-rush/index.html?level=1",
+   "thumb": "thumbs/rta-ring-rush.webp?v=1791640231",
+   "title": "Ring Rush"
+  },
+  {
+   "autostart": [
+    [
+     700,
+     "KeyZ"
+    ]
+   ],
+   "category": "Retro Arcade",
+   "extras": [
+    {
+     "key": "KeyM",
+     "label": "MUTE"
+    }
+   ],
+   "id": "rta-gem-columns",
+   "keys": {
+    "attack": "KeyZ",
+    "jump": "KeyX",
+    "start": "Enter"
+   },
+   "labels": {
+    "attack": "A · ROTATE",
+    "jump": "B",
+    "start": "PAUSE"
+   },
+   "orientation": "portrait",
+   "path": "g/rta-gem-columns/index.html?level=1",
+   "thumb": "thumbs/rta-gem-columns.webp?v=1791640235",
+   "title": "Gem Columns"
+  },
+  {
+   "autostart": [
+    [
+     700,
+     "KeyZ"
+    ]
+   ],
+   "category": "Retro Arcade",
+   "extras": [
+    {
+     "key": "KeyM",
+     "label": "MUTE"
+    }
+   ],
+   "id": "rta-balloon-brawl",
+   "keys": {
+    "attack": "KeyZ",
+    "jump": "KeyX",
+    "start": "Enter"
+   },
+   "labels": {
+    "attack": "A · FLAP",
+    "jump": "B",
+    "start": "PAUSE"
+   },
+   "orientation": "portrait",
+   "path": "g/rta-balloon-brawl/index.html?level=1",
+   "thumb": "thumbs/rta-balloon-brawl.webp?v=1791640240",
+   "title": "Balloon Brawl"
+  },
+  {
+   "autostart": [
+    [
+     700,
+     "KeyZ"
+    ]
+   ],
+   "category": "Retro Arcade",
+   "extras": [
+    {
+     "key": "KeyM",
+     "label": "MUTE"
+    }
+   ],
+   "id": "rta-turbo-coast",
+   "keys": {
+    "attack": "KeyZ",
+    "jump": "KeyX",
+    "start": "Enter"
+   },
+   "labels": {
+    "attack": "A · GAS",
+    "jump": "B · BRAKE",
+    "start": "PAUSE"
+   },
+   "orientation": "portrait",
+   "path": "g/rta-turbo-coast/index.html?level=1",
+   "thumb": "thumbs/rta-turbo-coast.webp?v=1791640245",
+   "title": "Turbo Coast"
+  },
+  {
+   "autostart": [
+    [
+     700,
+     "KeyZ"
+    ]
+   ],
+   "category": "Retro Arcade",
+   "extras": [
+    {
+     "key": "KeyM",
+     "label": "MUTE"
+    }
+   ],
+   "id": "rta-duck-shoot",
+   "keys": {
+    "attack": "KeyZ",
+    "jump": "KeyX",
+    "start": "Enter"
+   },
+   "labels": {
+    "attack": "A · FIRE",
+    "jump": "B",
+    "start": "PAUSE"
+   },
+   "orientation": "portrait",
+   "path": "g/rta-duck-shoot/index.html?level=1",
+   "thumb": "thumbs/rta-duck-shoot.webp?v=1791640250",
+   "title": "Duck Shoot"
+  },
+  {
+   "autostart": [
+    [
+     900,
+     "Enter"
+    ]
+   ],
+   "category": "Retro Arcade",
+   "extras": [
+    {
+     "key": "KeyM",
+     "label": "MUTE"
+    }
+   ],
+   "id": "outrun-remaster",
+   "keys": {
+    "down": "ArrowDown",
+    "left": "ArrowLeft",
+    "right": "ArrowRight",
+    "start": "Enter",
+    "up": "ArrowUp"
+   },
+   "labels": {
+    "down": "BRK",
+    "left": "◀ STEER",
+    "right": "STEER ▶",
+    "start": "START",
+    "up": "GAS"
+   },
+   "orientation": "any",
+   "path": "g/outrun-remaster/index.html",
+   "thumb": "thumbs/outrun-remaster.svg",
+   "title": "OutRun Remaster"
+  },
+  {
+   "autostart": [
+    [
+     900,
+     "Enter"
+    ]
+   ],
+   "category": "Retro Arcade",
+   "extras": [
+    {
+     "key": "KeyM",
+     "label": "MUTE"
+    }
+   ],
+   "id": "outrun-remaster-rulebook",
+   "keys": {
+    "down": "ArrowDown",
+    "left": "ArrowLeft",
+    "right": "ArrowRight",
+    "start": "Enter",
+    "up": "ArrowUp"
+   },
+   "labels": {
+    "down": "BRK",
+    "left": "◀ STEER",
+    "right": "STEER ▶",
+    "start": "START",
+    "up": "GAS"
+   },
+   "orientation": "any",
+   "path": "g/outrun-remaster-rulebook/index.html",
+   "thumb": "thumbs/outrun-remaster-rulebook.svg",
+   "title": "OutRun Remaster: Rulebook Edition"
+  },
+  {
+   "autostart": [],
+   "category": "Cat Arcade",
+   "id": "action-demo",
+   "keys": {},
+   "labels": {},
+   "note": "Free 5-game taster",
+   "orientation": "portrait",
+   "path": "g/action-demo/index.html",
+   "thumb": "thumbs/action-demo.webp?v=1792343452",
+   "title": "CAT ARCADE: ACTION (FREE 5)"
+  },
+  {
+   "autostart": [],
+   "category": "Cat Arcade",
+   "id": "brains-demo",
+   "keys": {},
+   "labels": {},
+   "note": "Free 5-game taster",
+   "orientation": "portrait",
+   "path": "g/brains-demo/index.html",
+   "thumb": "thumbs/brains-demo.webp?v=1792343452",
+   "title": "CAT ARCADE: BRAINS (FREE 5)"
+  },
+  {
+   "autostart": [],
+   "category": "Cat Arcade",
+   "id": "action15",
+   "keys": {},
+   "labels": {},
+   "note": "15 games, one level each, $4.99",
+   "orientation": "portrait",
+   "path": "g/action15/index.html",
+   "thumb": "thumbs/action15.webp?v=1792343452",
+   "title": "CAT ARCADE: ACTION 15"
+  },
+  {
+   "autostart": [],
+   "category": "Cat Arcade",
+   "id": "brains15",
+   "keys": {},
+   "labels": {},
+   "note": "15 games, one level each, $4.99",
+   "orientation": "portrait",
+   "path": "g/brains15/index.html",
+   "thumb": "thumbs/brains15.webp?v=1792343452",
+   "title": "CAT ARCADE: BRAINS 15"
+  },
+  {
+   "autostart": [],
+   "category": "Cat Arcade v2",
+   "id": "cat-arcade-v2",
+   "keys": {},
+   "labels": {},
+   "note": "Hub for the Cat Arcade v2 rebuild — 31 games on one shared runtime. Every card links to the rebuilt game and to the untouched original in g/_v1/ so you can A/B them.",
+   "orientation": "portrait",
+   "path": "g/_v2/index.html",
+   "thumb": "thumbs/one-tap-reflex-v2.webp?v=1792424065",
+   "title": "CAT ARCADE V2 — v1 vs v2 comparison"
+  },
+  {
+   "autostart": [],
+   "category": "Cat Arcade v2",
+   "id": "one-tap-reflex",
+   "keys": {},
+   "labels": {},
+   "note": "Cat Arcade v2 rebuild: one bad tap and it is over. New engine — bloom, impact ripples, particle debris, camera punch, combo meter, layered synth audio. The untouched original is kept at g/_v1/one-tap-reflex/.",
+   "orientation": "portrait",
+   "path": "g/_v2/one-tap-reflex/index.html",
+   "thumb": "thumbs/one-tap-reflex-v2.webp?v=1792424065",
+   "title": "FLAP CAT — tap to flap  ·  3 lives (v2)"
+  },
+  {
+   "autostart": [],
+   "category": "Cat Arcade v2",
+   "id": "stack-timing",
+   "keys": {},
+   "labels": {},
+   "note": "Cat Arcade v2 rebuild: one pixel off and the tower falls. New engine — bloom, impact ripples, particle debris, camera punch, combo meter, layered synth audio. The untouched original is kept at g/_v1/stack-timing/.",
+   "orientation": "portrait",
+   "path": "g/_v2/stack-timing/index.html",
+   "thumb": "thumbs/stack-timing-v2.webp?v=1792424101",
+   "title": "TOWER PERFECT — tap to drop  ·  centre it (v2)"
+  },
+  {
+   "autostart": [],
+   "category": "Cat Arcade v2",
+   "id": "bullet-heaven",
+   "keys": {},
+   "labels": {},
+   "note": "Cat Arcade v2 rebuild: one cat versus the whole graveyard. New engine — bloom, impact ripples, particle debris, camera punch, combo meter, layered synth audio. The untouched original is kept at g/_v1/bullet-heaven/.",
+   "orientation": "portrait",
+   "path": "g/_v2/bullet-heaven/index.html",
+   "thumb": "thumbs/bullet-heaven-v2.webp?v=1792424010",
+   "title": "HORDE CAT — drag to run  ·  auto-fire (v2)"
+  },
+  {
+   "autostart": [],
+   "category": "Cat Arcade v2",
+   "id": "card-roguelite",
+   "keys": {},
+   "labels": {},
+   "note": "Cat Arcade v2 rebuild: five waves, one deck, no mercy. New engine — bloom, impact ripples, particle debris, camera punch, combo meter, layered synth audio. The untouched original is kept at g/_v1/card-roguelite/.",
+   "orientation": "portrait",
+   "path": "g/_v2/card-roguelite/index.html",
+   "thumb": "thumbs/card-roguelite-v2.webp?v=1792424015",
+   "title": "CARD CATS — draw · play · survive (v2)"
+  },
+  {
+   "autostart": [],
+   "category": "Cat Arcade v2",
+   "id": "grid-chaser",
+   "keys": {},
+   "labels": {},
+   "note": "Cat Arcade v2 rebuild: eat every dot before they eat you. New engine — bloom, impact ripples, particle debris, camera punch, combo meter, layered synth audio. The untouched original is kept at g/_v1/grid-chaser/.",
+   "orientation": "portrait",
+   "path": "g/_v2/grid-chaser/index.html",
+   "thumb": "thumbs/grid-chaser-v2.webp?v=1792424035",
+   "title": "GRID CHASER — swipe or arrows to turn (v2)"
+  },
+  {
+   "autostart": [],
+   "category": "Cat Arcade v2",
+   "id": "hide-and-seek",
+   "keys": {},
+   "labels": {},
+   "note": "Cat Arcade v2 rebuild: he is one sweep away. New engine — bloom, impact ripples, particle debris, camera punch, combo meter, layered synth audio. The untouched original is kept at g/_v1/hide-and-seek/.",
+   "orientation": "portrait",
+   "path": "g/_v2/hide-and-seek/index.html",
+   "thumb": "thumbs/hide-and-seek-v2.webp?v=1792424040",
+   "title": "HIDE & SEEK — drag to sneak · stay out of the light (v2)"
+  },
+  {
+   "autostart": [],
+   "category": "Cat Arcade v2",
+   "id": "falling-blocks",
+   "keys": {},
+   "labels": {},
+   "note": "Cat Arcade v2 rebuild: the well never stops filling. New engine — bloom, impact ripples, particle debris, camera punch, combo meter, layered synth audio. The untouched original is kept at g/_v1/falling-blocks/.",
+   "orientation": "portrait",
+   "path": "g/_v2/falling-blocks/index.html",
+   "thumb": "thumbs/falling-blocks-v2.webp?v=1792429882",
+   "title": "BLOCK DROP — clear 20 lines (v2)"
+  },
+  {
+   "autostart": [],
+   "category": "Cat Arcade v2",
+   "id": "ballistic-bouncer",
+   "keys": {},
+   "labels": {},
+   "note": "Cat Arcade v2 rebuild: one ball, three lives, zero chill. New engine — bloom, impact ripples, particle debris, camera punch, combo meter, layered synth audio. The untouched original is kept at g/_v1/ballistic-bouncer/.",
+   "orientation": "portrait",
+   "path": "g/_v2/ballistic-bouncer/index.html",
+   "thumb": "thumbs/ballistic-bouncer-v2.webp?v=1792424004",
+   "title": "BALLISTIC BOUNCER — tap to slam · keep it alive (v2)"
+  },
+  {
+   "autostart": [],
+   "category": "Cat Arcade v2",
+   "id": "arena-brawler",
+   "keys": {},
+   "labels": {},
+   "note": "Cat Arcade v2 rebuild: 1 cat vs the whole street. New engine — bloom, impact ripples, particle debris, camera punch, combo meter, layered synth audio. The untouched original is kept at g/_v1/arena-brawler/.",
+   "orientation": "portrait",
+   "path": "g/_v2/arena-brawler/index.html",
+   "thumb": "thumbs/arena-brawler-v2.webp?v=1792423999",
+   "title": "ZOMBIE BRAWL — drag to move  ·  mash to punch (v2)"
+  },
+  {
+   "autostart": [],
+   "category": "Cat Arcade v2",
+   "id": "footsies-duel",
+   "keys": {},
+   "labels": {},
+   "note": "Cat Arcade v2 rebuild: one whiff and you eat 34. New engine — bloom, impact ripples, particle debris, camera punch, combo meter, layered synth audio. The untouched original is kept at g/_v1/footsies-duel/.",
+   "orientation": "portrait",
+   "path": "g/_v2/footsies-duel/index.html",
+   "thumb": "thumbs/footsies-duel-v2.webp?v=1792424030",
+   "title": "FOOTSIES DUEL — tap sides to step · tap middle to poke · hold to block (v2)"
+  },
+  {
+   "autostart": [],
+   "category": "Cat Arcade v2",
+   "id": "slice-swipe",
+   "keys": {},
+   "labels": {},
+   "note": "Cat Arcade v2 rebuild: the garden only needs 30 slices. New engine — bloom, impact ripples, particle debris, camera punch, combo meter, layered synth audio. The untouched original is kept at g/_v1/slice-swipe/.",
+   "orientation": "portrait",
+   "path": "g/_v2/slice-swipe/index.html",
+   "thumb": "thumbs/slice-swipe-v2.webp?v=1792424096",
+   "title": "CAT NINJA — swipe to slice · don\\ (v2)"
+  },
+  {
+   "autostart": [],
+   "category": "Cat Arcade v2",
+   "id": "run-and-gun",
+   "keys": {},
+   "labels": {},
+   "note": "Cat Arcade v2 rebuild: the sludge wall never stops. New engine — bloom, impact ripples, particle debris, camera punch, combo meter, layered synth audio. The untouched original is kept at g/_v1/run-and-gun/.",
+   "orientation": "portrait",
+   "path": "g/_v2/run-and-gun/index.html",
+   "thumb": "thumbs/run-and-gun-v2.webp?v=1792424085",
+   "title": "COMMANDO CAT — hold ▶ to run · fire to shoot (v2)"
+  },
+  {
+   "autostart": [],
+   "category": "Cat Arcade v2",
+   "id": "scrolling-shmup",
+   "keys": {},
+   "labels": {},
+   "note": "Cat Arcade v2 rebuild: the mothership is coming. New engine — bloom, impact ripples, particle debris, camera punch, combo meter, layered synth audio. The untouched original is kept at g/_v1/scrolling-shmup/.",
+   "orientation": "portrait",
+   "path": "g/_v2/scrolling-shmup/index.html",
+   "thumb": "thumbs/scrolling-shmup-v2.webp?v=1792424090",
+   "title": "VOID CAT — drag to fly · guns are auto (v2)"
+  },
+  {
+   "autostart": [],
+   "category": "Cat Arcade v2",
+   "id": "precision-platformer",
+   "keys": {},
+   "labels": {},
+   "note": "Cat Arcade v2 rebuild: one late jump and the void eats you. New engine — bloom, impact ripples, particle debris, camera punch, combo meter, layered synth audio. The untouched original is kept at g/_v1/precision-platformer/.",
+   "orientation": "portrait",
+   "path": "g/_v2/precision-platformer/index.html",
+   "thumb": "thumbs/precision-platformer-v2.webp?v=1792424075",
+   "title": "CAT DASH — run · jump · outrun the void (v2)"
+  },
+  {
+   "autostart": [],
+   "category": "Cat Arcade v2",
+   "id": "mini-metroidvania",
+   "keys": {},
+   "labels": {},
+   "note": "Cat Arcade v2 rebuild: three chambers, one relic, zero seconds. New engine — bloom, impact ripples, particle debris, camera punch, combo meter, layered synth audio. The untouched original is kept at g/_v1/mini-metroidvania/.",
+   "orientation": "portrait",
+   "path": "g/_v2/mini-metroidvania/index.html",
+   "thumb": "thumbs/mini-metroidvania-v2.webp?v=1792424050",
+   "title": "CAT CAVE — dash · double jump · escape (v2)"
+  },
+  {
+   "autostart": [],
+   "category": "Cat Arcade v2",
+   "id": "mini-zelda",
+   "keys": {},
+   "labels": {},
+   "note": "Cat Arcade v2 rebuild: clear the room, take the key, climb the stairs. New engine — bloom, impact ripples, particle debris, camera punch, combo meter, layered synth audio. The untouched original is kept at g/_v1/mini-zelda/.",
+   "orientation": "portrait",
+   "path": "g/_v2/mini-zelda/index.html",
+   "thumb": "thumbs/mini-zelda-v2.webp?v=1792424055",
+   "title": "CAT DUNGEON — slash · loot · escape (v2)"
+  },
+  {
+   "autostart": [],
+   "category": "Cat Arcade v2",
+   "id": "trajectory-artillery",
+   "keys": {},
+   "labels": {},
+   "note": "Cat Arcade v2 rebuild: one fish, one zombie, one very big crater. New engine — bloom, impact ripples, particle debris, camera punch, combo meter, layered synth audio. The untouched original is kept at g/_v1/trajectory-artillery/.",
+   "orientation": "portrait",
+   "path": "g/_v2/trajectory-artillery/index.html",
+   "thumb": "thumbs/trajectory-artillery-v2.webp?v=1792424106",
+   "title": "CAT-A-PULT — drag to aim  ·  release to fire (v2)"
+  },
+  {
+   "autostart": [],
+   "category": "Cat Arcade v2",
+   "id": "turn-based-3v3",
+   "keys": {},
+   "labels": {},
+   "note": "Cat Arcade v2 rebuild: three cats, three beasts, one ribbon of turns. New engine — bloom, impact ripples, particle debris, camera punch, combo meter, layered synth audio. The untouched original is kept at g/_v1/turn-based-3v3/.",
+   "orientation": "portrait",
+   "path": "g/_v2/turn-based-3v3/index.html",
+   "thumb": "thumbs/turn-based-3v3-v2.webp?v=1792429918",
+   "title": "TURN ORDER — pick your target  ·  land the combo (v2)"
+  },
+  {
+   "autostart": [],
+   "category": "Cat Arcade v2",
+   "id": "micro-tower-defense",
+   "keys": {},
+   "labels": {},
+   "note": "Cat Arcade v2 rebuild: five waves, one lane, no mercy. New engine — bloom, impact ripples, particle debris, camera punch, combo meter, layered synth audio. The untouched original is kept at g/_v1/micro-tower-defense/.",
+   "orientation": "portrait",
+   "path": "g/_v2/micro-tower-defense/index.html",
+   "thumb": "thumbs/micro-tower-defense-v2.webp?v=1792429897",
+   "title": "MICRO TOWER DEFENSE — tap tower · tap plot · hold the lane (v2)"
+  },
+  {
+   "autostart": [],
+   "category": "Cat Arcade v2",
+   "id": "merge-sandbox",
+   "keys": {},
+   "labels": {},
+   "note": "Cat Arcade v2 rebuild: two cats touch and turn into something bigger. New engine — bloom, impact ripples, particle debris, camera punch, combo meter, layered synth audio. The untouched original is kept at g/_v1/merge-sandbox/.",
+   "orientation": "portrait",
+   "path": "g/_v2/merge-sandbox/index.html",
+   "thumb": "thumbs/merge-sandbox-v2.webp?v=1792429892",
+   "title": "MERGE SANDBOX — drop · match · level up (v2)"
+  },
+  {
+   "autostart": [],
+   "category": "Cat Arcade v2",
+   "id": "plinko-drop",
+   "keys": {},
+   "labels": {},
+   "note": "Cat Arcade v2 rebuild: three chips to find the x5. New engine — bloom, impact ripples, particle debris, camera punch, combo meter, layered synth audio. The untouched original is kept at g/_v1/plinko-drop/.",
+   "orientation": "portrait",
+   "path": "g/_v2/plinko-drop/index.html",
+   "thumb": "thumbs/plinko-drop-v2.webp?v=1792424070",
+   "title": "PLINKO DROP — aim · hold to charge · release (v2)"
+  },
+  {
+   "autostart": [],
+   "category": "Cat Arcade v2",
+   "id": "ragdoll-launch",
+   "keys": {},
+   "labels": {},
+   "note": "Cat Arcade v2 rebuild: one cat, one sling, zero dignity. New engine — bloom, impact ripples, particle debris, camera punch, combo meter, layered synth audio. The untouched original is kept at g/_v1/ragdoll-launch/.",
+   "orientation": "portrait",
+   "path": "g/_v2/ragdoll-launch/index.html",
+   "thumb": "thumbs/ragdoll-launch-v2.webp?v=1792429902",
+   "title": "RAGDOLL LAUNCH — drag back  ·  let the cat fly (v2)"
+  },
+  {
+   "autostart": [],
+   "category": "Cat Arcade v2",
+   "id": "rope-cut",
+   "keys": {},
+   "labels": {},
+   "note": "Cat Arcade v2 rebuild: five levels, one bottomless cat. New engine — bloom, impact ripples, particle debris, camera punch, combo meter, layered synth audio. The untouched original is kept at g/_v1/rope-cut/.",
+   "orientation": "portrait",
+   "path": "g/_v2/rope-cut/index.html",
+   "thumb": "thumbs/rope-cut-v2.webp?v=1792429908",
+   "title": "ROPE CUT — slice the ropes · feed the cat (v2)"
+  },
+  {
+   "autostart": [],
+   "category": "Cat Arcade v2",
+   "id": "obby-gauntlet",
+   "keys": {},
+   "labels": {},
+   "note": "Cat Arcade v2 rebuild: one slip and the cat is gone. New engine — bloom, impact ripples, particle debris, camera punch, combo meter, layered synth audio. The untouched original is kept at g/_v1/obby-gauntlet/.",
+   "orientation": "portrait",
+   "path": "g/_v2/obby-gauntlet/index.html",
+   "thumb": "thumbs/obby-gauntlet-v2.webp?v=1792424060",
+   "title": "CAT OBBY — tap = jump  ·  drag = steer (v2)"
+  },
+  {
+   "autostart": [],
+   "category": "Cat Arcade v2",
+   "id": "kart-racer",
+   "keys": {},
+   "labels": {},
+   "note": "Cat Arcade v2 rebuild: one lap. three rivals. no brakes.. New engine — bloom, impact ripples, particle debris, camera punch, combo meter, layered synth audio. The untouched original is kept at g/_v1/kart-racer/.",
+   "orientation": "portrait",
+   "path": "g/_v2/kart-racer/index.html",
+   "thumb": "thumbs/kart-racer-v2.webp?v=1792424045",
+   "title": "NEON RUSH — hold left / right  ·  pass all 3 (v2)"
+  },
+  {
+   "autostart": [],
+   "category": "Cat Arcade v2",
+   "id": "rail-runner",
+   "keys": {},
+   "labels": {},
+   "note": "Cat Arcade v2 rebuild: one missed junction and the cat eats rail. New engine — bloom, impact ripples, particle debris, camera punch, combo meter, layered synth audio. The untouched original is kept at g/_v1/rail-runner/.",
+   "orientation": "portrait",
+   "path": "g/_v2/rail-runner/index.html",
+   "thumb": "thumbs/rail-runner-v2.webp?v=1792424080",
+   "title": "NEON GRIND — ▲▼ switch track  ·  tap / space jump (v2)"
+  },
+  {
+   "autostart": [],
+   "category": "Cat Arcade v2",
+   "id": "sort-puzzle",
+   "keys": {},
+   "labels": {},
+   "note": "Cat Arcade v2 rebuild: one colour per tube. New engine — bloom, impact ripples, particle debris, camera punch, combo meter, layered synth audio. The untouched original is kept at g/_v1/sort-puzzle/.",
+   "orientation": "portrait",
+   "path": "g/_v2/sort-puzzle/index.html",
+   "thumb": "thumbs/sort-puzzle-v2.webp?v=1792429913",
+   "title": "SLUG SORT — sort every tube (v2)"
+  },
+  {
+   "autostart": [],
+   "category": "Cat Arcade v2",
+   "id": "idle-tycoon",
+   "keys": {},
+   "labels": {},
+   "note": "Cat Arcade v2 rebuild: the café builds itself while you tap. New engine — bloom, impact ripples, particle debris, camera punch, combo meter, layered synth audio. The untouched original is kept at g/_v1/idle-tycoon/.",
+   "orientation": "portrait",
+   "path": "g/_v2/idle-tycoon/index.html",
+   "thumb": "thumbs/idle-tycoon-v2.webp?v=1792429887",
+   "title": "CAT CAFÉ — tap to serve  ·  build the café (v2)"
+  },
+  {
+   "autostart": [],
+   "category": "Cat Arcade v2",
+   "id": "cozy-farm",
+   "keys": {},
+   "labels": {},
+   "note": "Cat Arcade v2 rebuild: one tiny farm, one setting sun. New engine — bloom, impact ripples, particle debris, camera punch, combo meter, layered synth audio. The untouched original is kept at g/_v1/cozy-farm/.",
+   "orientation": "portrait",
+   "path": "g/_v2/cozy-farm/index.html",
+   "thumb": "thumbs/cozy-farm-v2.webp?v=1792424025",
+   "title": "COZY CAT FARM — tap · till · plant · harvest (v2)"
+  },
+  {
+   "autostart": [],
+   "category": "Cat Arcade v2",
+   "id": "daily-deduction",
+   "keys": {},
+   "labels": {},
+   "note": "Cat Arcade v2 rebuild: three clues, four cats, one thief. New engine — bloom, impact ripples, particle debris, camera punch, combo meter, layered synth audio. The untouched original is kept at g/_v1/daily-deduction/.",
+   "orientation": "portrait",
+   "path": "g/_v2/daily-deduction/index.html",
+   "thumb": "thumbs/daily-deduction-v2.webp?v=1792429877",
+   "title": "WHODUNNIT — read the clues  ·  name the culprit (v2)"
+  },
+  {
+   "autostart": [],
+   "category": "Cat Arcade v2",
+   "id": "cat-runner",
+   "keys": {},
+   "labels": {},
+   "note": "Cat Arcade v2 original: the city is chasing you. New engine — bloom, impact ripples, particle debris, camera punch, combo meter, layered synth audio.",
+   "orientation": "portrait",
+   "path": "g/_v2/cat-runner/index.html",
+   "thumb": "thumbs/cat-runner-v2.webp?v=1792424020",
+   "title": "CAT RUNNER — tap = jump  ·  hold = slide (v2)"
+  },
+  {
+   "autostart": [],
+   "category": "Originals",
+   "id": "roadster-flip-v2",
+   "keys": {
+    "jump": "Space"
+   },
+   "labels": {
+    "jump": "HOLD fan · TAP thrust"
+   },
+   "note": "2D juice rebuild of the Tesla flying-Roadster flip game: hold to charge the upside-down ramp climb, tap at the apex ring for the 180-degree kickflip over the Tesla lineup. Bloom, particles, camera punch, combo meter, synth audio. Compare with v1: g/_v2/roadster-flip/compare.html",
+   "orientation": "portrait",
+   "path": "g/_v2/roadster-flip/index.html",
+   "thumb": "thumbs/roadster-flip.webp?v=1792369872",
+   "title": "ROADSTER FLIP v2"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "extras": [
+    {
+     "key": "KeyM",
+     "label": "MUTE"
+    }
+   ],
+   "id": "block-commando",
+   "keys": {
+    "attack": "KeyZ",
+    "down": "ArrowDown",
+    "jump": "KeyX",
+    "left": "ArrowLeft",
+    "right": "ArrowRight",
+    "start": "Enter",
+    "up": "ArrowUp"
+   },
+   "labels": {
+    "attack": "Z · JUMP",
+    "jump": "X · FIRE"
+   },
+   "note": "Contra x Tetris: run-and-gun on falling-block terrain. Shoot blocks to break them, clear rows to delete the floor, and do not get crushed.",
+   "orientation": "portrait",
+   "path": "../games/block-commando/index.html",
+   "thumb": "thumbs/block-commando.webp",
+   "title": "Block Commando"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "extras": [
+    {
+     "key": "KeyM",
+     "label": "MUTE"
+    }
+   ],
+   "id": "paper-rash",
+   "keys": {
+    "attack": "KeyZ",
+    "down": "ArrowDown",
+    "jump": "KeyX",
+    "left": "ArrowLeft",
+    "right": "ArrowRight",
+    "start": "Enter",
+    "up": "ArrowUp"
+   },
+   "labels": {
+    "attack": "Z · THROW",
+    "jump": "X · PUNCH"
+   },
+   "note": "Paperboy x Road Rash: delivery courier combat racing. Throw papers into mailboxes, punch adjacent rivals, dodge the cars.",
+   "orientation": "portrait",
+   "path": "../games/paper-rash/index.html",
+   "thumb": "thumbs/paper-rash.webp",
+   "title": "Paper Rash"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "extras": [
+    {
+     "key": "KeyM",
+     "label": "MUTE"
+    }
+   ],
+   "id": "grapple-ninja",
+   "keys": {
+    "attack": "KeyZ",
+    "down": "ArrowDown",
+    "jump": "KeyX",
+    "left": "ArrowLeft",
+    "right": "ArrowRight",
+    "start": "Enter",
+    "up": "ArrowUp"
+   },
+   "labels": {
+    "attack": "Z · GRAPPLE",
+    "jump": "X · SLASH"
+   },
+   "note": "Bionic Commando x Ninja Gaiden: hold Z to fire the grapple at rings and swing, release to launch, slash with X.",
+   "orientation": "portrait",
+   "path": "../games/grapple-ninja/index.html",
+   "thumb": "thumbs/grapple-ninja.webp",
+   "title": "Grapple Ninja"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "extras": [
+    {
+     "key": "KeyM",
+     "label": "MUTE"
+    }
+   ],
+   "id": "kung-fu-knockout",
+   "keys": {
+    "attack": "KeyZ",
+    "down": "ArrowDown",
+    "jump": "KeyX",
+    "left": "ArrowLeft",
+    "right": "ArrowRight",
+    "start": "Enter",
+    "up": "ArrowUp"
+   },
+   "labels": {
+    "attack": "Z · PUNCH",
+    "jump": "X · KICK"
+   },
+   "note": "Kung-Fu Master x Punch-Out!!: side-scroll grunts, then a 1-on-1 counter-boxing boss. Dodge, block, and jab when he is stunned.",
+   "orientation": "portrait",
+   "path": "../games/kung-fu-knockout/index.html",
+   "thumb": "thumbs/kung-fu-knockout.webp",
+   "title": "Kung Fu Knockout"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "extras": [
+    {
+     "key": "KeyM",
+     "label": "MUTE"
+    }
+   ],
+   "id": "bmx-downhill-rush",
+   "keys": {
+    "attack": "KeyZ",
+    "down": "ArrowDown",
+    "jump": "KeyX",
+    "left": "ArrowLeft",
+    "right": "ArrowRight",
+    "start": "Enter",
+    "up": "ArrowUp"
+   },
+   "labels": {
+    "attack": "Z · HOP",
+    "jump": "X · TURBO"
+   },
+   "note": "Excitebike x Skate or Die: 4-rider dirt downhill with heat-managed turbo and ramp air tricks (tabletop, bar spin, 360). Place, time and trick scoring with a persistent high score.",
+   "orientation": "portrait",
+   "path": "../games/bmx-downhill-rush/index.html",
+   "thumb": "thumbs/bmx-downhill-rush.webp",
+   "title": "BMX Downhill Rush"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "extras": [
+    {
+     "key": "KeyM",
+     "label": "MUTE"
+    }
+   ],
+   "id": "maze-wrecker-night",
+   "keys": {
+    "attack": "KeyZ",
+    "down": "ArrowDown",
+    "jump": "KeyX",
+    "left": "ArrowLeft",
+    "right": "ArrowRight",
+    "start": "Enter",
+    "up": "ArrowUp"
+   },
+   "labels": {
+    "attack": "Z · SMASH",
+    "jump": "X · DASH"
+   },
+   "note": "Moth's third Maze Wrecker, built on the other AI's shared gamekit (Cherie 2026-10-30): the cabinet lattice maze at night — same pellets, bricks and three foreman ghosts, but the hammer is a weapon now: swing at a ghost to STUN him for 3 seconds (+50). Tighter 135-second seal. Bot-verified clear, stun probe-verified.",
+   "orientation": "portrait",
+   "path": "../games/maze-wrecker-night/index.html",
+   "thumb": "thumbs/maze-wrecker-night.webp",
+   "title": "Maze Wrecker: Night Shift"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "extras": [
+    {
+     "key": "KeyM",
+     "label": "MUTE"
+    }
+   ],
+   "id": "vampire-metroid-hd",
+   "keys": {
+    "attack": "KeyZ",
+    "down": "ArrowDown",
+    "jump": "KeyX",
+    "left": "ArrowLeft",
+    "right": "ArrowRight",
+    "start": "Enter",
+    "up": "ArrowUp"
+   },
+   "labels": {
+    "attack": "Z · JUMP",
+    "jump": "X · DASH"
+   },
+   "note": "Painted HD edition of the hive shooter: same rules and bot, painted sprites, baked room and a real lighting pass. Tier 2 of the Vampire Metroid editions (gamepress tier system, merged to main 2026-10-30).",
+   "orientation": "portrait",
+   "path": "../games/g17-hd/index.html",
+   "thumb": "thumbs/vampire-metroid-hd.webp",
+   "title": "Vampire Metroid HD"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "extras": [
+    {
+     "key": "KeyM",
+     "label": "MUTE"
+    }
+   ],
+   "id": "vampire-metroid-hd-plus",
+   "keys": {
+    "attack": "KeyZ",
+    "down": "ArrowDown",
+    "jump": "KeyX",
+    "left": "ArrowLeft",
+    "right": "ArrowRight",
+    "start": "Enter",
+    "up": "ArrowUp"
+   },
+   "labels": {
+    "attack": "Z · JUMP",
+    "jump": "X · DASH"
+   },
+   "note": "HD+ game-feel edition: hit flash, squash, knockback, floating damage numbers, camera lean and a boss-death push-in. Same rules as the pixel edition — parity-checked.",
+   "orientation": "portrait",
+   "path": "../games/g17b-hd/index.html",
+   "thumb": "thumbs/vampire-metroid-hd-plus.webp",
+   "title": "Vampire Metroid HD+"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "extras": [
+    {
+     "key": "KeyM",
+     "label": "MUTE"
+    }
+   ],
+   "id": "vampire-metroid-hd-art",
+   "keys": {
+    "attack": "KeyZ",
+    "down": "ArrowDown",
+    "jump": "KeyX",
+    "left": "ArrowLeft",
+    "right": "ArrowRight",
+    "start": "Enter",
+    "up": "ArrowUp"
+   },
+   "labels": {
+    "attack": "Z · JUMP",
+    "jump": "X · DASH"
+   },
+   "note": "HD Art edition: hand-drawn SVG characters on a skeletal rig, WebGL bloom and grade pass. Same rules — parity-checked.",
+   "orientation": "portrait",
+   "path": "../games/g17c-art/index.html",
+   "thumb": "thumbs/vampire-metroid-hd-art.webp",
+   "title": "Vampire Metroid HD Art"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "extras": [
+    {
+     "key": "KeyM",
+     "label": "MUTE"
+    }
+   ],
+   "id": "vampire-metroid-hd-lux",
+   "keys": {
+    "attack": "KeyZ",
+    "down": "ArrowDown",
+    "jump": "KeyX",
+    "left": "ArrowLeft",
+    "right": "ArrowRight",
+    "start": "Enter",
+    "up": "ArrowUp"
+   },
+   "labels": {
+    "attack": "Z · JUMP",
+    "jump": "X · DASH"
+   },
+   "note": "HD Lux edition: SVG environment, shader lights, haze and embers over the HD Art rig. Same rules — parity-checked.",
+   "orientation": "portrait",
+   "path": "../games/g17d-lux/index.html",
+   "thumb": "thumbs/vampire-metroid-hd-lux.webp",
+   "title": "Vampire Metroid HD Lux"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "extras": [
+    {
+     "key": "KeyM",
+     "label": "MUTE"
+    }
+   ],
+   "id": "vampire-metroid-hd-close",
+   "keys": {
+    "attack": "KeyZ",
+    "down": "ArrowDown",
+    "jump": "KeyX",
+    "left": "ArrowLeft",
+    "right": "ArrowRight",
+    "start": "Enter",
+    "up": "ArrowUp"
+   },
+   "labels": {
+    "attack": "Z · JUMP",
+    "jump": "X · DASH"
+   },
+   "note": "HD Close edition: tall full-screen layout, follow camera, bigger characters and a 360-degree analog touch pad. Intentionally differs: no pause, analog movement.",
+   "orientation": "portrait",
+   "path": "../games/g17e-close/index.html",
+   "thumb": "thumbs/vampire-metroid-hd-close.webp",
+   "title": "Vampire Metroid HD Close"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "extras": [
+    {
+     "key": "KeyM",
+     "label": "MUTE"
+    }
+   ],
+   "id": "vampire-metroid-hd-world",
+   "keys": {
+    "attack": "KeyZ",
+    "down": "ArrowDown",
+    "jump": "KeyX",
+    "left": "ArrowLeft",
+    "right": "ArrowRight",
+    "start": "Enter",
+    "up": "ArrowUp"
+   },
+   "labels": {
+    "attack": "Z · JUMP",
+    "jump": "X · DASH"
+   },
+   "note": "HD World edition: painted-style SVG rig characters (hero, three zombie types, elite, queen boss) in a dressed lab world. Same rules — parity-checked. Painted raster art drops in via the gamepress painted-art brief.",
+   "orientation": "portrait",
+   "path": "../games/g17f-world/index.html",
+   "thumb": "thumbs/vampire-metroid-hd-world.webp",
+   "title": "Vampire Metroid HD World"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "extras": [
+    {
+     "key": "KeyM",
+     "label": "MUTE"
+    }
+   ],
+   "id": "vampire-metroid-3d",
+   "keys": {
+    "attack": "KeyZ",
+    "down": "ArrowDown",
+    "jump": "KeyX",
+    "left": "ArrowLeft",
+    "right": "ArrowRight",
+    "start": "Enter",
+    "up": "ArrowUp"
+   },
+   "labels": {
+    "attack": "Z · JUMP",
+    "jump": "X · DASH"
+   },
+   "note": "3D spike: the same Vampire Metroid sim rendered in Three.js. Experimental tier from the gamepress tier system.",
+   "orientation": "portrait",
+   "path": "../games/g17g-3d/index.html",
+   "thumb": "thumbs/vampire-metroid-3d.webp",
+   "title": "Vampire Metroid 3D"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "extras": [
+    {
+     "key": "KeyM",
+     "label": "MUTE"
+    }
+   ],
+   "id": "street-round",
+   "keys": {
+    "attack": "KeyZ",
+    "down": "ArrowDown",
+    "jump": "KeyX",
+    "left": "ArrowLeft",
+    "right": "ArrowRight",
+    "start": "Enter",
+    "up": "ArrowUp"
+   },
+   "labels": {
+    "attack": "Z · PUNCH",
+    "jump": "X · KICK"
+   },
+   "note": "One-round arcade 1v1 on the cabinet's native per-frame 8-bit rig — left/right move, down blocks, up jumps, Z punches, X kicks. KO the CPU or lead on health at 45 seconds.",
+   "orientation": "portrait",
+   "path": "../games/street-round/index.html",
+   "thumb": "thumbs/street-round.webp",
+   "title": "Street Round"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "extras": [
+    {
+     "key": "KeyM",
+     "label": "MUTE"
+    }
+   ],
+   "id": "ryu-vs-guile",
+   "keys": {
+    "attack": "KeyZ",
+    "down": "ArrowDown",
+    "jump": "KeyX",
+    "left": "ArrowLeft",
+    "right": "ArrowRight",
+    "start": "Enter",
+    "up": "ArrowUp"
+   },
+   "labels": {
+    "attack": "Z · PUNCH",
+    "jump": "X · KICK"
+   },
+   "note": "One-round arcade fight with a full special-move list on the native 8-bit rig: fireball (236+P), rising punch (623+P), spin kick (214+K), plus the second fighter's charge moves (hold back, then forward + P; hold down, then up + K). Add ?char=guile to play the other fighter. Six-button keyboard layout (U I O punches, J K L kicks); Z/X are the medium punch/kick shortcuts and the touch buttons. Move test 48/48.",
+   "orientation": "portrait",
+   "path": "../games/ryu-vs-guile/index.html",
+   "thumb": "thumbs/ryu-vs-guile.webp",
+   "title": "Ryu vs Guile"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "extras": [
+    {
+     "key": "KeyM",
+     "label": "MUTE"
+    }
+   ],
+   "id": "ryu-vs-guile-16bit",
+   "keys": {
+    "attack": "KeyZ",
+    "down": "ArrowDown",
+    "jump": "KeyX",
+    "left": "ArrowLeft",
+    "right": "ArrowRight",
+    "start": "Enter",
+    "up": "ArrowUp"
+   },
+   "labels": {
+    "attack": "Z · PUNCH",
+    "jump": "X · KICK"
+   },
+   "note": "The same fight in a 16-bit look: vector-drawn fighters with shaded limbs, then a posterised 256x224 pixel pass. Same moves and controls as the 8-bit edition (add ?char=guile to play the other fighter). Six-button keyboard layout (U I O punches, J K L kicks); Z/X are the medium punch/kick shortcuts and the touch buttons.",
+   "orientation": "portrait",
+   "path": "../games/ryu-vs-guile-16bit/index.html",
+   "thumb": "thumbs/ryu-vs-guile-16bit.webp",
+   "title": "Ryu vs Guile 16-bit"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "extras": [
+    {
+     "key": "KeyM",
+     "label": "MUTE"
+    }
+   ],
+   "id": "floppy-race",
+   "keys": {
+    "attack": "KeyZ",
+    "down": "ArrowDown",
+    "jump": "KeyX",
+    "left": "ArrowLeft",
+    "right": "ArrowRight",
+    "start": "Enter",
+    "up": "ArrowUp"
+   },
+   "labels": {
+    "attack": "Z · TAP A",
+    "jump": "X · TAP B"
+   },
+   "note": "Four-lane ragdoll sprint: tap Z then X alternately to run, Up jumps hurdles and mud — trip and you flop face-first. Beat three CPU runners over 100 m.",
+   "orientation": "portrait",
+   "path": "../games/floppy-race/index.html",
+   "thumb": "thumbs/floppy-race.webp",
+   "title": "Floppy Race"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "extras": [
+    {
+     "key": "KeyM",
+     "label": "MUTE"
+    }
+   ],
+   "id": "training-dojo",
+   "keys": {
+    "attack": "KeyZ",
+    "down": "ArrowDown",
+    "jump": "KeyX",
+    "left": "ArrowLeft",
+    "right": "ArrowRight",
+    "start": "Enter",
+    "up": "ArrowUp"
+   },
+   "labels": {
+    "attack": "Z · PUNCH",
+    "jump": "X · KICK"
+   },
+   "note": "Fighter training room: deal 150 damage to a standing dummy within 40 seconds using the full move list — fireball 236+P, rising punch 623+P, spin kick 214+K. Same moves as the main fight.",
+   "orientation": "portrait",
+   "path": "../games/training-dojo/index.html",
+   "thumb": "thumbs/training-dojo.webp",
+   "title": "Training Dojo"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "extras": [
+    {
+     "key": "KeyM",
+     "label": "MUTE"
+    }
+   ],
+   "id": "tournament-ladder",
+   "keys": {
+    "attack": "KeyZ",
+    "down": "ArrowDown",
+    "jump": "KeyX",
+    "left": "ArrowLeft",
+    "right": "ArrowRight",
+    "start": "Enter",
+    "up": "ArrowUp"
+   },
+   "labels": {
+    "attack": "Z · PUNCH",
+    "jump": "X · KICK"
+   },
+   "note": "Three fights in a row against stronger CPUs, and health does not refill between fights.",
+   "orientation": "portrait",
+   "path": "../games/tournament-ladder/index.html",
+   "thumb": "thumbs/tournament-ladder.webp",
+   "title": "Tournament Ladder"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "extras": [
+    {
+     "key": "KeyM",
+     "label": "MUTE"
+    }
+   ],
+   "id": "boss-rush",
+   "keys": {
+    "attack": "KeyZ",
+    "down": "ArrowDown",
+    "jump": "KeyX",
+    "left": "ArrowLeft",
+    "right": "ArrowRight",
+    "start": "Enter",
+    "up": "ArrowUp"
+   },
+   "labels": {
+    "attack": "Z · PUNCH",
+    "jump": "X · KICK"
+   },
+   "note": "One armoured boss who takes 75% damage — and his AI gets harder when he is hurt. Full move list.",
+   "orientation": "portrait",
+   "path": "../games/boss-rush/index.html",
+   "thumb": "thumbs/boss-rush.webp",
+   "title": "Boss Rush"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "extras": [
+    {
+     "key": "KeyM",
+     "label": "MUTE"
+    }
+   ],
+   "id": "street-brawl",
+   "keys": {
+    "attack": "KeyZ",
+    "down": "ArrowDown",
+    "jump": "KeyX",
+    "left": "ArrowLeft",
+    "right": "ArrowRight",
+    "start": "Enter",
+    "up": "ArrowUp"
+   },
+   "labels": {
+    "attack": "Z · PUNCH",
+    "jump": "X · KICK"
+   },
+   "note": "Four-direction beat-'em-up on the fighter rig: arrows walk, Z punches, X kicks. Clear three waves and the boss.",
+   "orientation": "portrait",
+   "path": "../games/street-brawl/index.html",
+   "thumb": "thumbs/street-brawl.webp",
+   "title": "Street Brawl"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "extras": [
+    {
+     "key": "KeyM",
+     "label": "MUTE"
+    }
+   ],
+   "id": "sumo-shove",
+   "keys": {
+    "attack": "KeyZ",
+    "down": "ArrowDown",
+    "jump": "KeyX",
+    "left": "ArrowLeft",
+    "right": "ArrowRight",
+    "start": "Enter",
+    "up": "ArrowUp"
+   },
+   "labels": {
+    "attack": "Z · TAP A",
+    "jump": "X · TAP B"
+   },
+   "note": "Sumo on the fighter rig: tap Z then X alternately to shove — first one out of the ring loses.",
+   "orientation": "portrait",
+   "path": "../games/sumo-shove/index.html",
+   "thumb": "thumbs/sumo-shove.webp",
+   "title": "Sumo Shove"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "extras": [
+    {
+     "key": "KeyM",
+     "label": "MUTE"
+    }
+   ],
+   "id": "fireball-dodgeball",
+   "keys": {
+    "attack": "KeyZ",
+    "down": "ArrowDown",
+    "jump": "KeyX",
+    "left": "ArrowLeft",
+    "right": "ArrowRight",
+    "start": "Enter",
+    "up": "ArrowUp"
+   },
+   "labels": {
+    "attack": "Z · LOW",
+    "jump": "X · HIGH"
+   },
+   "note": "Dodgeball with fireballs: Z throws low, X throws high; jump to dodge low balls, duck to dodge high ones. Five hearts each.",
+   "orientation": "portrait",
+   "path": "../games/fireball-dodgeball/index.html",
+   "thumb": "thumbs/fireball-dodgeball.webp",
+   "title": "Fireball Dodgeball"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "extras": [
+    {
+     "key": "KeyM",
+     "label": "MUTE"
+    }
+   ],
+   "id": "grapple-duel",
+   "keys": {
+    "attack": "KeyZ",
+    "down": "ArrowDown",
+    "jump": "KeyX",
+    "left": "ArrowLeft",
+    "right": "ArrowRight",
+    "start": "Enter",
+    "up": "ArrowUp"
+   },
+   "labels": {
+    "attack": "Z · STRIKE",
+    "jump": "X · GUARD"
+   },
+   "note": "Rock-paper-scissors grappling: Z strike, X guard, Up throw. Strike beats throw, throw beats guard, guard beats strike — and the CPU repeats itself half the time, so read it.",
+   "orientation": "portrait",
+   "path": "../games/grapple-duel/index.html",
+   "thumb": "thumbs/grapple-duel.webp",
+   "title": "Grapple Duel"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "extras": [
+    {
+     "key": "KeyM",
+     "label": "MUTE"
+    }
+   ],
+   "id": "locker-room-last-stand",
+   "keys": {
+    "attack": "KeyZ",
+    "down": "ArrowDown",
+    "jump": "KeyX",
+    "left": "ArrowLeft",
+    "right": "ArrowRight",
+    "start": "Enter",
+    "up": "ArrowUp"
+   },
+   "labels": {
+    "attack": "Z · FIRE",
+    "jump": "X · FIRE"
+   },
+   "note": "Hold the locker room against the dead for 45 seconds. Left/right move, Z or X fires. Every frame is drawn live by the cabinet's native 8-bit rig — no sprite assets.",
+   "orientation": "portrait",
+   "path": "../games/locker-room-last-stand/index.html",
+   "thumb": "thumbs/locker-room-last-stand.webp",
+   "title": "Locker Room Last Stand"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "extras": [
+    {
+     "key": "KeyM",
+     "label": "MUTE"
+    }
+   ],
+   "id": "crypt-gauntlet",
+   "keys": {
+    "attack": "KeyZ",
+    "down": "ArrowDown",
+    "jump": "KeyX",
+    "left": "ArrowLeft",
+    "right": "ArrowRight",
+    "start": "Enter",
+    "up": "ArrowUp"
+   },
+   "labels": {
+    "attack": "Z · FIRE",
+    "jump": "X · AXE"
+   },
+   "note": "Fight through three dungeon rooms. Arrows move, hold Z or X to throw axes (auto-aims). Keys open doors, bone piles spawn monsters, food refills your draining health.",
+   "orientation": "portrait",
+   "path": "../games/crypt-gauntlet/index.html",
+   "thumb": "thumbs/crypt-gauntlet.webp",
+   "title": "Crypt Gauntlet"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "extras": [
+    {
+     "key": "KeyM",
+     "label": "MUTE"
+    }
+   ],
+   "id": "skyfire-42",
+   "keys": {
+    "attack": "KeyZ",
+    "down": "ArrowDown",
+    "jump": "KeyX",
+    "left": "ArrowLeft",
+    "right": "ArrowRight",
+    "start": "Enter",
+    "up": "ArrowUp"
+   },
+   "labels": {
+    "attack": "Z · FIRE",
+    "jump": "X · ALT FIRE"
+   },
+   "note": "Pick the plane, tank or archer at the start (left/right, then Z); the computer plays the other two. Loop-the-loop dodges (plane: press Z and X together), shoot red waves for POW, and beat the boss bomber.",
+   "orientation": "portrait",
+   "path": "../games/skyfire-42/index.html",
+   "thumb": "thumbs/skyfire-42.webp",
+   "title": "Skyfire 42"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "extras": [
+    {
+     "key": "KeyM",
+     "label": "MUTE"
+    }
+   ],
+   "id": "skyfire-42-hi8",
+   "keys": {
+    "attack": "KeyZ",
+    "down": "ArrowDown",
+    "jump": "KeyX",
+    "left": "ArrowLeft",
+    "right": "ArrowRight",
+    "start": "Enter",
+    "up": "ArrowUp"
+   },
+   "labels": {
+    "attack": "Z · FIRE",
+    "jump": "X · ALT FIRE"
+   },
+   "note": "The same Skyfire 42 mission with high-end shaded 8-bit sprites: pick plane, tank or archer (left/right, then Z) and the computer plays the other two. Plane: Z+X together loops. Beat the boss bomber.",
+   "orientation": "portrait",
+   "path": "../games/skyfire-42-hi8/index.html",
+   "thumb": "thumbs/skyfire-42-hi8.webp",
+   "title": "Skyfire 42: High-End 8-Bit"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "extras": [
+    {
+     "key": "KeyM",
+     "label": "MUTE"
+    }
+   ],
+   "id": "skyfire-42-painted",
+   "keys": {
+    "attack": "KeyZ",
+    "down": "ArrowDown",
+    "jump": "KeyX",
+    "left": "ArrowLeft",
+    "right": "ArrowRight",
+    "start": "Enter",
+    "up": "ArrowUp"
+   },
+   "labels": {
+    "attack": "Z · FIRE",
+    "jump": "X · ALT FIRE"
+   },
+   "note": "The same Skyfire 42 mission as a painted HD world: sea, islands, harbours, clouds and lit explosions. Pick plane, tank or archer (left/right, then Z); the computer plays the other two. Plane: Z+X together loops.",
+   "orientation": "portrait",
+   "path": "../games/skyfire-42-painted/index.html",
+   "thumb": "thumbs/skyfire-42-painted.webp",
+   "title": "Skyfire 42: Painted"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "id": "g1",
+   "keys": {
+    "start": "Enter"
+   },
+   "labels": {},
+   "note": "Cabinet game line, build g1: Block Commando.",
+   "orientation": "landscape",
+   "path": "../games/g1/index.html",
+   "title": "Block Commando"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "id": "g2",
+   "keys": {
+    "start": "Enter"
+   },
+   "labels": {},
+   "note": "Cabinet game line, build g2: Disc Fighters.",
+   "orientation": "landscape",
+   "path": "../games/g2/index.html",
+   "title": "Disc Fighters"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "id": "g3",
+   "keys": {
+    "start": "Enter"
+   },
+   "labels": {},
+   "note": "Cabinet game line, build g3: Paper Rash.",
+   "orientation": "landscape",
+   "path": "../games/g3/index.html",
+   "title": "Paper Rash"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "id": "g4",
+   "keys": {
+    "start": "Enter"
+   },
+   "labels": {},
+   "note": "Cabinet game line, build g4: Boom Balloons.",
+   "orientation": "landscape",
+   "path": "../games/g4/index.html",
+   "title": "Boom Balloons"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "id": "g5",
+   "keys": {
+    "start": "Enter"
+   },
+   "labels": {},
+   "note": "Cabinet game line, build g5: Grapple Ninja.",
+   "orientation": "landscape",
+   "path": "../games/g5/index.html",
+   "title": "Grapple Ninja"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "id": "g6",
+   "keys": {
+    "start": "Enter"
+   },
+   "labels": {},
+   "note": "Cabinet game line, build g6: Kung Fu Knockout.",
+   "orientation": "landscape",
+   "path": "../games/g6/index.html",
+   "title": "Kung Fu Knockout"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "id": "g7",
+   "keys": {
+    "start": "Enter"
+   },
+   "labels": {},
+   "note": "The cabinet original of Maze Wrecker (build g7).",
+   "orientation": "landscape",
+   "path": "../games/g7/index.html",
+   "title": "Maze Wrecker"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "id": "g8",
+   "keys": {
+    "start": "Enter"
+   },
+   "labels": {},
+   "note": "Cabinet game line, build g8: Morph Climb.",
+   "orientation": "landscape",
+   "path": "../games/g8/index.html",
+   "title": "Morph Climb"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "id": "g9",
+   "keys": {
+    "start": "Enter"
+   },
+   "labels": {},
+   "note": "Cabinet game line, build g9: Dig Up.",
+   "orientation": "landscape",
+   "path": "../games/g9/index.html",
+   "title": "Dig Up"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "id": "g10",
+   "keys": {
+    "start": "Enter"
+   },
+   "labels": {},
+   "note": "Cabinet game line, build g10: Gridlock Grand Prix.",
+   "orientation": "landscape",
+   "path": "../games/g10/index.html",
+   "title": "Gridlock Grand Prix"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "id": "g11",
+   "keys": {
+    "start": "Enter"
+   },
+   "labels": {},
+   "note": "Cabinet game line, build g11: Hop Fight.",
+   "orientation": "landscape",
+   "path": "../games/g11/index.html",
+   "title": "Hop Fight"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "id": "g12",
+   "keys": {
+    "start": "Enter"
+   },
+   "labels": {},
+   "note": "Cabinet game line, build g12: Blade Punch.",
+   "orientation": "landscape",
+   "path": "../games/g12/index.html",
+   "title": "Blade Punch"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "id": "g13",
+   "keys": {
+    "start": "Enter"
+   },
+   "labels": {},
+   "note": "Cabinet game line, build g13: Balatro Grand Prix.",
+   "orientation": "landscape",
+   "path": "../games/g13/index.html",
+   "title": "Balatro Grand Prix"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "id": "g14",
+   "keys": {
+    "start": "Enter"
+   },
+   "labels": {},
+   "note": "Cabinet game line, build g14: Buckshot Saloon.",
+   "orientation": "landscape",
+   "path": "../games/g14/index.html",
+   "title": "Buckshot Saloon"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "id": "g15",
+   "keys": {
+    "start": "Enter"
+   },
+   "labels": {},
+   "note": "Cabinet game line, build g15: Kong Calamity.",
+   "orientation": "landscape",
+   "path": "../games/g15/index.html",
+   "title": "Kong Calamity"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "id": "g16",
+   "keys": {
+    "start": "Enter"
+   },
+   "labels": {},
+   "note": "Cabinet game line, build g16: Lethal Castlevania.",
+   "orientation": "landscape",
+   "path": "../games/g16/index.html",
+   "title": "Lethal Castlevania"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "id": "g17",
+   "keys": {
+    "start": "Enter"
+   },
+   "labels": {},
+   "note": "Cabinet game line, build g17: Vampire Metroid.",
+   "orientation": "landscape",
+   "path": "../games/g17/index.html",
+   "title": "Vampire Metroid"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "id": "g18",
+   "keys": {
+    "start": "Enter"
+   },
+   "labels": {},
+   "note": "Cabinet game line, build g18: Tower of Yoshi.",
+   "orientation": "landscape",
+   "path": "../games/g18/index.html",
+   "title": "Tower of Yoshi"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "id": "g19",
+   "keys": {
+    "start": "Enter"
+   },
+   "labels": {},
+   "note": "Cabinet game line, build g19: Mushroom BedWars.",
+   "orientation": "landscape",
+   "path": "../games/g19/index.html",
+   "title": "Mushroom BedWars"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "id": "g20",
+   "keys": {
+    "start": "Enter"
+   },
+   "labels": {},
+   "note": "Cabinet game line, build g20: Contra Helldivers.",
+   "orientation": "landscape",
+   "path": "../games/g20/index.html",
+   "title": "Contra Helldivers"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "id": "g21",
+   "keys": {
+    "start": "Enter"
+   },
+   "labels": {},
+   "note": "Cabinet game line, build g21: Hyrule DOORS.",
+   "orientation": "landscape",
+   "path": "../games/g21/index.html",
+   "title": "Hyrule DOORS"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "id": "g22",
+   "keys": {
+    "start": "Enter"
+   },
+   "labels": {},
+   "note": "Cabinet game line, build g22: Onett Mart Sim.",
+   "orientation": "landscape",
+   "path": "../games/g22/index.html",
+   "title": "Onett Mart Sim"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "id": "g23",
+   "keys": {
+    "start": "Enter"
+   },
+   "labels": {},
+   "note": "Cabinet game line, build g23: Fisch of Mana.",
+   "orientation": "landscape",
+   "path": "../games/g23/index.html",
+   "title": "Fisch of Mana"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "id": "g24",
+   "keys": {
+    "start": "Enter"
+   },
+   "labels": {},
+   "note": "Cabinet game line, build g24: Liars Tavern.",
+   "orientation": "landscape",
+   "path": "../games/g24/index.html",
+   "title": "Liars Tavern"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "id": "g25",
+   "keys": {
+    "start": "Enter"
+   },
+   "labels": {},
+   "note": "Cabinet game line, build g25: SpookSnap 64.",
+   "orientation": "landscape",
+   "path": "../games/g25/index.html",
+   "title": "SpookSnap 64"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "id": "g26",
+   "keys": {
+    "start": "Enter"
+   },
+   "labels": {},
+   "note": "Cabinet game line, build g26: Pet Quest 99.",
+   "orientation": "landscape",
+   "path": "../games/g26/index.html",
+   "title": "Pet Quest 99"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "id": "g27",
+   "keys": {
+    "start": "Enter"
+   },
+   "labels": {},
+   "note": "Cabinet game line, build g27: Deep Rock Dig Dug.",
+   "orientation": "landscape",
+   "path": "../games/g27/index.html",
+   "title": "Deep Rock Dig Dug"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "id": "g28",
+   "keys": {
+    "start": "Enter"
+   },
+   "labels": {},
+   "note": "Cabinet game line, build g28: Four Swords Murder.",
+   "orientation": "landscape",
+   "path": "../games/g28/index.html",
+   "title": "Four Swords Murder"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "id": "g29",
+   "keys": {
+    "start": "Enter"
+   },
+   "labels": {},
+   "note": "Cabinet game line, build g29: Dress to Quest.",
+   "orientation": "landscape",
+   "path": "../games/g29/index.html",
+   "title": "Dress to Quest"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "id": "g30",
+   "keys": {
+    "start": "Enter"
+   },
+   "labels": {},
+   "note": "Cabinet game line, build g30: River City Cartel.",
+   "orientation": "landscape",
+   "path": "../games/g30/index.html",
+   "title": "River City Cartel"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "id": "g31",
+   "keys": {
+    "start": "Enter"
+   },
+   "labels": {},
+   "note": "Cabinet game line, build g31: Pal Harvest.",
+   "orientation": "landscape",
+   "path": "../games/g31/index.html",
+   "title": "Pal Harvest"
+  },
+  {
+   "autostart": [],
+   "category": "Retro Arcade",
+   "id": "painted-preview",
+   "keys": {
+    "start": "Enter"
+   },
+   "labels": {},
+   "note": "Painted-art interactive build of the Vampire Metroid HD world.",
+   "orientation": "landscape",
+   "path": "../games/painted-preview/index.html",
+   "title": "Vampire Metroid HD World"
+  },
+  {
+   "autostart": [],
+   "category": "Cat Arcade",
+   "id": "action12",
+   "keys": {
+    "start": "Enter"
+   },
+   "labels": {},
+   "note": "Cat Arcade action set, pack 12.",
+   "orientation": "landscape",
+   "path": "g/action12/index.html",
+   "title": "CAT ARCADE: ACTION 12"
+  },
+  {
+   "autostart": [],
+   "category": "Cat Arcade",
+   "id": "brains12",
+   "keys": {
+    "start": "Enter"
+   },
+   "labels": {},
+   "note": "Cat Arcade brains set, pack 12.",
+   "orientation": "landscape",
+   "path": "g/brains12/index.html",
+   "title": "CAT ARCADE: BRAINS 12"
+  }
+ ]
+}
